@@ -1,0 +1,43 @@
+﻿button {
+    width: 200px;
+    height: 75px;
+    font-family: 'Times New Roman', sans-serif;
+    background-color: #10bd09;
+    font-size: 18px;
+}
+
+body {
+    background-color: #808080; /* Ярко алый цвет фона */
+    padding: 0; /* Убирает отступы */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    
+}
+.auth-form,
+.register-form {
+    max-width: 300px;
+    margin: 0 auto;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.form-check-input {
+    width: 40px; /* Ширина чекбокса */
+    height: 40px; /* Высота чекбокса */
+    margin-right: 5px; /* Отступ справа от текста */
+   
+}
+.form-check-label {
+    font-family: 'Times New Roman', sans-serif;
+}

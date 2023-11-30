@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Web2", ".", "{7C2F1D0E-47FB-491F-9709-FCBF8AF326E9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59219"
+		Debug.AspNetCompiler.PhysicalPath = "..\Web2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59219\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59219"
+		Release.AspNetCompiler.PhysicalPath = "..\Web2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59219\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59219"
+		SlnRelativePath = "..\Web2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{9EBC227D-D7E3-49CB-BC73-2EDF518DB913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2F1D0E-47FB-491F-9709-FCBF8AF326E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2F1D0E-47FB-491F-9709-FCBF8AF326E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D6BDD48-5E3F-4AF4-83EE-0E0292A21F0C}
+	EndGlobalSection
+EndGlobal
